@@ -1,0 +1,8 @@
+# System Phone Server
+Source :
+https://github.com/dub10/phone_server/
+
+System server built for cellular devices IOS an Android
+connections need to be made for user an platform 
+handler if possible usage of phone server if no 
+connection then there is no use of phone server.
